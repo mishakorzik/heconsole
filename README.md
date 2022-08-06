@@ -16,5 +16,4 @@ pip install heconsole
 $ from heconsole import console
 $ console.log(0, "Its a log!")
 
-
-```bash
+```
