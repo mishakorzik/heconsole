@@ -105,7 +105,7 @@ class Console:
         print(cr)
     def bold(self, sleep:int, *message:str, showTime:bool=None):
         time.sleep(int(sleep))
-        message = "\x1B[1m"+" ".join([str(m) for m in q10])
+        message = "\x1B[1m"+" ".join([str(m) for m in message])
         q01 = message.replace("WHITE", "\x1B[37m")
         q02 = q01.replace(".GREY", "\x1B[90m")
         q03 = q02.replace(".BLACK", "\x1B[30m")
