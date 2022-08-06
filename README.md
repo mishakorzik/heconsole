@@ -13,7 +13,8 @@ pip install heconsole
 #### this pip module has a lot of useful things for customization and logging
 
 ```
-$ from heconsole import console
-$ console.log(0, "Its a log!")
 
 ```
+
+## Images
+<img width="99.9%" src=""/>
