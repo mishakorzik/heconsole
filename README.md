@@ -11,3 +11,10 @@ pip install heconsole
 
 ## Usage
 #### this pip module has a lot of useful things for customization and logging
+
+```
+$ from heconsole import console
+$ console.log(0, "Its a log!")
+
+
+```bash
