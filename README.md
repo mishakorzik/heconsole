@@ -50,5 +50,5 @@ console.arrowLog(0, ".BOLD bold .ITALICitalic .INVERSE inverse .UNDERLINE underl
 console.arrowLog(0, ".BOLD Lorem .GREENipsum dolor .ITALIC sit amet,.BLACK REDBGconsectetur adipiscing .BLUEelit...")
 ```
 
-## Images
+## Output
 <img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/heconsole/main/images/IMG_20220806_222355.jpg"/>
