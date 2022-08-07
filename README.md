@@ -52,3 +52,5 @@ console.arrowLog(0, ".BOLD Lorem .GREENipsum dolor .ITALIC sit amet,.BLACK REDBG
 
 ## Output
 <img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/heconsole/main/images/IMG_20220806_222355.jpg"/>
+
+customizing the log entry terminal.
